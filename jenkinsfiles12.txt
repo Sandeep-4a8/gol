@@ -28,7 +28,7 @@ bat 'mvn clean install'
       
   }
 
-      }
+ }
     
 }
 
